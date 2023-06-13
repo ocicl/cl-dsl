@@ -1,0 +1,9 @@
+* cl-dsl
+
+Helps to define domain specific languages
+
+|---------+--------------------------------------------|
+| source  | git:https://github.com/mabragor/cl-dsl.git |
+| commit  | 697fa5a                                    |
+| systems | cl-dsl                                     |
+|---------+--------------------------------------------|
